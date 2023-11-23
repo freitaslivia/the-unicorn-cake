@@ -163,9 +163,21 @@ Tipos de telas previstas para desenvolvimento futuro.
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Screenshots
 
-O Lorem Ipsum foi usado neste cenário pois o produto está em fase inicial de desenvolvimento no momento dessa postagem.
+O Lorem Ipsum foi usado neste cenário pois o produto está em fase inicial de desenvolvimento no momento dessa postagem. Este é um prototipo de alta fidelidade, não representa o produto final.
 
 [![TELA-02.png](https://i.postimg.cc/2SZkJ8hG/TELA-02.png)](https://postimg.cc/JsRCH8TH)
 
 [![TELA-03.png](https://i.postimg.cc/xdVfSDP2/TELA-03.png)](https://postimg.cc/VJ4QjhTG)
+
+
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
+## Usuários
+
+Uma conta de usuário foi liberada para acesso e teste do sistema.
+O acesso será através do CPF 123.456.789-00 e da senha fiap2023, este CPF foi utilizado para proteger os dados sensíveis verídicos dos integrantes da equipe.
+
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
+## Configuração de uso
+
+Adicionar aqui no final a doc de config de uso para a entrega, vide página 34 do doc.
 
