@@ -189,10 +189,6 @@ Uma conta de usuário foi liberada para acesso e teste do sistema.
 O acesso será através do CPF 123.456.789-00 e da senha fiap2023, este CPF foi utilizado para proteger os dados sensíveis verídicos dos integrantes da equipe.
 
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
-## Configuração de uso
-
-# the-unicorn-cake-api
-Api de Java
 
 ## Documentação da API
 
