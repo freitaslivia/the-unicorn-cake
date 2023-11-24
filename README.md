@@ -163,9 +163,23 @@ Tipos de telas previstas para desenvolvimento futuro.
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Screenshots
 
-[![tela-1.png](https://i.postimg.cc/j21wYnn8/tela-1.png)](https://postimg.cc/K3nvnzNL)
+[![Slide1.png](https://i.postimg.cc/WpqJ0SBC/Slide1.png)](https://postimg.cc/9zVMhPFY)
 
-[![tela-2.png](https://i.postimg.cc/7hj6Wvjd/tela-2.png)](https://postimg.cc/vxLb4KYt)
+[![Slide2.png](https://i.postimg.cc/VkmrQwJP/Slide2.png)](https://postimg.cc/YhDqYJNd)
+
+[![Slide3.png](https://i.postimg.cc/SNW2vRNG/Slide3.png)](https://postimg.cc/GHmmBcDB)
+
+[![Slide4.png](https://i.postimg.cc/PqqCJMb6/Slide4.png)](https://postimg.cc/gxfzB8TR)
+
+[![Slide5.png](https://i.postimg.cc/L6dgDLRX/Slide5.png)](https://postimg.cc/BtgvQ8j9)
+
+[![Slide6.png](https://i.postimg.cc/K8fKmWTk/Slide6.png)](https://postimg.cc/5XH93nnb)
+
+[![Slide7.png](https://i.postimg.cc/vBJTPFJj/Slide7.png)](https://postimg.cc/JDQRng4c)
+
+[![Slide8.png](https://i.postimg.cc/yNrkZSv7/Slide8.png)](https://postimg.cc/p9zWNrwS)
+
+[![Slide9.png](https://i.postimg.cc/Kzk4rvHB/Slide9.png)](https://postimg.cc/xJQ09YY1)
 
 
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
