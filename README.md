@@ -163,11 +163,9 @@ Tipos de telas previstas para desenvolvimento futuro.
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Screenshots
 
-O Lorem Ipsum foi usado neste cenário pois o produto está em fase inicial de desenvolvimento no momento dessa postagem. Este é um prototipo de alta fidelidade, não representa o produto final.
+[![tela-1.png](https://i.postimg.cc/j21wYnn8/tela-1.png)](https://postimg.cc/K3nvnzNL)
 
-[![TELA-02.png](https://i.postimg.cc/2SZkJ8hG/TELA-02.png)](https://postimg.cc/JsRCH8TH)
-
-[![TELA-03.png](https://i.postimg.cc/xdVfSDP2/TELA-03.png)](https://postimg.cc/VJ4QjhTG)
+[![tela-2.png](https://i.postimg.cc/7hj6Wvjd/tela-2.png)](https://postimg.cc/vxLb4KYt)
 
 
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
