@@ -1,0 +1,73 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logincontainer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 50%;
+    margin: 70px;
+}
+.logincontainer h2 {
+    margin-top: 0;
+    color: #333;
+}
+.primeira{
+    display: flex;
+    flex-direction: column;
+}
+.primeira label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.primeira input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.primeira button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.primeira button:hover {
+    background-color: #0056b3;
+}
+
+.primeira p {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.primeira p a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.primeira p a:hover {
+    text-decoration: underline;
+}
