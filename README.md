@@ -2,7 +2,7 @@
 
 # GLOBAL SOLUTION 2023 H2 FIAP | HAPVIDA
 
-Com o intuito no desenvolvimento de um produto funcional e com possibilidades de desenvolvimento futuro, aqui você encontra algumas informações importantes sobre o projeto.
+Com o intuito no desenvolvimento de um produto funcional e com possibilidades de melhorias futuras, aqui você encontra algumas informações importantes sobre o projeto.
 As telas e o conteúdo disponível para compartilhamento não representam a ideia final do produto.
 A ideia final do produto você poderá encontrar na pasta de documentação.
 O sistema aqui disponível foi simplificado para atender as solicitações dos professores da FIAP para esta entrega.
