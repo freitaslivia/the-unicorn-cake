@@ -51,7 +51,7 @@ function FooterPage (){
                             <a href='#'>Download documentação do projeto</a>
                         </li>
                         <li>
-                            <a href='#'>Github</a>
+                            <a href='https://github.com/freitaslivia/the-unicorn-cake' target='_blank'>Github</a>
                         </li>
                         <li>
                             <a href='#'>Sair</a>
