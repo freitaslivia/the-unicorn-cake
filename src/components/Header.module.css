@@ -1,0 +1,45 @@
+.HeaderLogin{
+    background-color: #cb3c84;
+}
+.HeaderConteudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.HeaderDireita{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.HeaderDireita svg{
+    color: white;
+    font-size: 20px;
+}
+.HeaderDireita h2{
+    margin-left: 10px;
+    color: white;
+}
+.paginas ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.paginas ul li{
+    margin: 0px 20px 0px 20px;
+    font-size: 20px;
+    color: white;
+}
+.paginas ul li a{
+    text-decoration: none;
+    color: white;
+}
+.quadradologo{
+    height: 112px;
+    width: 300px;
+    background-color: #cc6da6;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

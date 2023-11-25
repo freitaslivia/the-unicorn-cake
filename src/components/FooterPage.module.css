@@ -1,0 +1,69 @@
+.footer{
+    width: 100%;
+    height: 280px;
+    display: flex;
+    background-color: #b03e82;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.direita{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+.equipe ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.paginas{
+    width: 660px;
+}
+.paginas ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start
+}
+.paginas ul li a{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+}
+.paginas ul li{
+    padding-top: 10px;
+    width: 220px;
+}
+.quadrados{
+    display: flex;
+}
+.iconeUnicorn{
+    display: flex;
+    align-items: center;
+}
+.pUnicorn{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.pUnicorn p{
+    margin: 0;
+}
+.pum{
+    font-weight: bold;
+}
+.pdois{
+    font-size: 10px;
+}
+.logos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
